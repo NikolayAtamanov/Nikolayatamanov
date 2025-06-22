@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-<!--
 **NikolayAtamanov/Nikolayatamanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I have a degree in economics and professional experience as a quality control engineer.
 My key achievements include:
 Successfully reducing the number of errors in the services I was responsible for
